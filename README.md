@@ -15,3 +15,19 @@ If you would like to obtain the complete dataset, please contact us at **huqi@ma
 ## 💻 Code
 
 The source code will be released soon.
+
+## 📝 Citation
+
+If you find our work useful for your research, please consider citing our paper:
+
+```bibtex
+@article{hu2026viewport,
+  title   = {Viewport-Importance-Embedded 3D Gaussian Splatting Video with Spatial Audio},
+  author  = {Hu, Qi and Li, Qiyue and Hong, Richang and Liu, Zhi and Li, Zhu and Li, Jie},
+  journal = {IEEE Transactions on Multimedia},
+  year    = {2026},
+  note    = {Accepted for publication}
+}
+```
+
+The citation information will be updated once the paper becomes available on IEEE Xplore.
