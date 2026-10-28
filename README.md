@@ -23,7 +23,7 @@ If you find our work useful for your research, please consider citing our paper:
 ```bibtex
 @article{hu2026viewport,
   title   = {Viewport-Importance-Embedded 3D Gaussian Splatting Video with Spatial Audio},
-  author  = {Hu, Qi and Li, Qiyue and Hong, Richang and Liu, Zhi and Li, Zhu and Li, Jie},
+  author  = {Qi, Hu and Qiyue, Li and Richang, Hong and Zhi, Liu and Zhu, Li and Jie, Li},
   journal = {IEEE Transactions on Multimedia},
   year    = {2026},
   note    = {Accepted for publication}
